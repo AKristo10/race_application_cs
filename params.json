@@ -1,0 +1,4 @@
+{
+  "spring.datasource.username": "dev_raceapp",
+  "spring.datasource.password": "dev_raceapp!"
+}
